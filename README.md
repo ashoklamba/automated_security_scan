@@ -38,7 +38,7 @@ Automation tools to parse and consolidate SonarQube and Mend (WhiteSource) secur
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd new-project
+cd automated_security_scan
 ```
 
 2. Install Python dependencies:
